@@ -1,0 +1,2 @@
+class HumanszzController < ApplicationController
+end
